@@ -1,7 +1,7 @@
 # BQ_Week_14_C: Tech Blog
    
 ### Application Deployment
-
+[live URL for application](https://warm-plateau-42090.herokuapp.com/)
 
 ### User Story
 
